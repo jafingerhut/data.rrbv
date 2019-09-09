@@ -5,15 +5,15 @@ concatenation and subvector implementations, based upon Relaxed Radix
 Balanced Trees described in these papers:
 
 * Phil Bagwell, Tiark Rompf, "RRB-Trees: Efficient Immutable Vectors",
-  EPFL-REPORT-169879, September, 2011.  [Semantic
-  Scholar](https://www.semanticscholar.org/paper/RRB-Trees-%3A-Efficient-Immutable-Vectors-Phil-Tiark-Bagwell-Rompf/30c8c562f6421ab6b00d0b7faebd897c407de69c),
-  [PDF](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
+  EPFL-REPORT-169879, September, 2011.  [[Semantic
+  Scholar]](https://www.semanticscholar.org/paper/RRB-Trees-%3A-Efficient-Immutable-Vectors-Phil-Tiark-Bagwell-Rompf/30c8c562f6421ab6b00d0b7faebd897c407de69c),
+  [[PDF]](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
 * Nicolas Stucki, Tiark Rompf, Vlad Ureche, Phil Bagwell, "RRB vector:
   a practical general purpose immutable sequence", ICFP 2015,
   Proc. 20th ACM SIGPLAN International Conference on Functional
-  Programming, 2015, [ACM Digital
-  Library](https://dl.acm.org/citation.cfm?id=2784739),
-  [PDF](https://infoscience.epfl.ch/record/213452/files/rrbvector.pdf)
+  Programming, 2015, [[ACM Digital
+  Library]](https://dl.acm.org/citation.cfm?id=2784739),
+  [[PDF]](https://infoscience.epfl.ch/record/213452/files/rrbvector.pdf)
 
 
 ## Usage
